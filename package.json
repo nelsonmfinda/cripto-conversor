@@ -1,6 +1,6 @@
 {
   "name": "cripto_conversor",
-  "version": "0.1.0",
+  "version": "0.0.4",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -49,5 +49,25 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "Currency conversor app",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonmfinda/cripto-conversor.git"
+  },
+  "keywords": [
+    "currency",
+    "conversor",
+    "tool",
+    "blockchain",
+    "arweave",
+    "dapp"
+  ],
+  "author": "Nelson Mfinda <nelsonmfinda@hotmail.com> (https://nelsonmfinda.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonmfinda/cripto-conversor/issues"
+  },
+  "homepage": "https://github.com/nelsonmfinda/cripto-conversor#readme"
 }
