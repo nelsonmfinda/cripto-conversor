@@ -6,16 +6,16 @@
 </template>
 
 <script>
-import Conversor from "./components/Conversor.vue";
-import Navbar from "./components/Navbar.vue";
+import Conversor from './components/Conversor.vue'
+import Navbar from './components/Navbar.vue'
 
 export default {
-  name: "app",
+  name: 'app',
   components: {
     Conversor,
     Navbar
   }
-};
+}
 </script>
 
 <style>
